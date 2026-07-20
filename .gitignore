@@ -1,0 +1,28 @@
+# Python cache and build output
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Test and notebook output
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# Generated project artifacts
+data/raw/*.csv
+data/processed/*.csv
+models/*.joblib
+models/*.pkl
+
+# Operating system files
+.DS_Store
+Thumbs.db
