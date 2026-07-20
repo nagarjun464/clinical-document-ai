@@ -20,6 +20,8 @@ venv/
 # Generated project artifacts
 data/raw/*.csv
 data/processed/*.csv
+output/pdf/**/*.pdf
+output/pdf/**/*.csv
 models/*.joblib
 models/*.pkl
 
