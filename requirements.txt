@@ -3,6 +3,7 @@ numpy>=1.26
 scikit-learn>=1.4
 Faker>=25.0
 matplotlib>=3.8
+joblib>=1.4
 notebook>=7.0
 ipykernel>=6.0
 pytest>=8.0
